@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nikolavlahovic/static/css/main.23143166.css",
+    "main.js": "/nikolavlahovic/static/js/main.6eadf28a.js",
+    "index.html": "/nikolavlahovic/index.html",
+    "main.23143166.css.map": "/nikolavlahovic/static/css/main.23143166.css.map",
+    "main.6eadf28a.js.map": "/nikolavlahovic/static/js/main.6eadf28a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23143166.css",
+    "static/js/main.6eadf28a.js"
+  ]
+}
